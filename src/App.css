@@ -31,6 +31,15 @@ button {
     margin-top: 10px;
 }
 
+.samosa:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.samosa:active {
+    transform: scale(0.95);
+}
+
 /* The rest of the file (Do not touch) */
 
 #root {
